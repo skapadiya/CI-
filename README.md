@@ -1,6 +1,6 @@
 # Twilio CI Custom Operator Sync (Intelligence v3)
 
-Conversational Intelligence custom operators are **account-scoped** — they don't
+Conversational Intelligence custom operators are **account-scoped**, they don't
 inherit across subaccounts. These two scripts do code-driven replication from a
 parent account out to all of its subaccounts.
 
